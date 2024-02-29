@@ -1,0 +1,8 @@
+{
+  "name": "farmaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3bb730b7"
+}
